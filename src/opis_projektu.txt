@@ -1,0 +1,5 @@
+Projekt dotyczy aplikacji mobilnej wspierającej studentów w planowaniu nauki.
+Rozwiązuje problem braku systematyczności i przeciążenia materiałem podczas semestru.
+Odbiorcami są studenci w wieku 18–25 lat, którzy chcą efektywnie zarządzać czasem i zadaniami.
+Kluczowe funkcje to lista zadań z priorytetami, kalendarz tygodniowy, powiadomienia i prosty moduł statystyk postępów.
+Interfejs będzie intuicyjny, umożliwiający szybkie dodawanie zadań i synchronizację z kalendarzem uczelni.

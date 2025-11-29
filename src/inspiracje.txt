@@ -1,0 +1,35 @@
+i. inspiracje (słowa, skojarzenia, pomysły)
+- systematyczność, rutyna, nawyki
+- prostota, minimalizm, szybki dostęp
+- priorytety, fokus, koncentracja
+- przypomnienia, powiadomienia push
+- widok tygodniowy, kalendarz uczelni
+- synchronizacja, autoryzacja, konto
+- statystyki postępów, motywacja, nagrody
+- szybkie dodawanie, skróty, template'y zadań
+- tryb offline, przywracanie danych, eksport/import
+
+ii. krótka lista elementów projektu
+- lista zadań z priorytetami i kategoriami
+- szybkie dodawanie (one-tap, skróty)
+- kalendarz tygodniowy z integracją uczelnianą
+- powiadomienia i przypomnienia (edycja/wyłączanie)
+- moduł prostych statystyk (tydzień/miesiąc)
+- logowanie/konto + synchronizacja
+- ustawienia użytkownika, eksport/import danych
+
+iii. wstępne dane wejściowe (lista kategorii, funkcji)
+- kategorie zadań: Wykład, Laboratorium, Projekt, Egzamin, Powtórka, Zadanie domowe, Inne
+- priorytety: Wysoki, Średni, Niski
+- statusy: Do zrobienia, W trakcie, Zrobione
+- powiadomienia: czas przed (15m, 30m, 1h, custom), powtarzanie (codzienne, tygodniowe, niestandardowe)
+- pola zadania: tytuł, opis, termin, priorytet, kategoria, powiadomienie, przypięte (tak/nie)
+- ustawienia synchronizacji: konto uczelni (opcjonalne), kalendarz Google (opcjonalne)
+- statystyki: liczba zadań ukończonych/dzień, średni czas realizacji, streaky
+
+iv. źródła pomysłu
+- własna potrzeba organizacji nauki
+- obserwacje problemu braku systematyczności wśród studentów
+- rozmowy/feedback od znajomych studentów
+- istniejące aplikacje produktywności jako inspiracja (np. menedżery zadań, kalendarze)
+- praktyki zarządzania czasem i literatury o nawykach

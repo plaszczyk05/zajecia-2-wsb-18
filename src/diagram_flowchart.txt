@@ -1,0 +1,27 @@
+  .----------------------------- APLIKACJA PLANOWANIA NAUKI -----------------------------.
+  |                                                                                     |
+  |   (Dodaj zadanie)        (Szybkie dodawanie)      (Ustaw priorytet)    (Edytuj zadanie) |
+  |        o------------------o--------------------------o------------------o           |
+  |        |                                                                    |         |
+Student o-----o        (Przeglądaj listę zadań)    (Usuń zadanie)    (Przeglądaj kalendarz)   |
+  (18-25) |   \       o--------------------------o   o---------------o    o--------------------o  |
+ / \   \                                                                             /    |
+/   \   \   (Synchronizuj z kalendarzem uczelni)   (Ustaw powiadomienia)   (Odbierz powiadomienia)
+   /     \   \  o------------------------------------o o------------------------o   o--------------o
+  /       \   \                                                                              |
+ /         \   \                                                                             |
+/           \   \   (Zobacz statystyki postępów)    (Logowanie / Konto)    (Ustawienia)      |
+   /             \   \  o------------------------------o  o--------------------o   o------------o  |
+  '--------------'    '--------------------------------------------------------------------------------'
+
+Legenda:
+- Student: główny aktor (użytkownik aplikacji)
+- Owal: przypadek użycia (funkcja)
+- Połączenia: aktor inicjuje wymienione przypadki użycia
+- Synchronizacja: integracja z kalendarzem uczelni
+- Powiadomienia/statystyki: wspierają utrzymanie systematyczności i monitorowanie postępów
+
+Uwagi strukturalne (diagram logiczny):
+- "Szybkie dodawanie" może <<include>> "Dodaj zadanie".
+- "Odbierz powiadomienia" zależy od "Ustaw powiadomienia".
+- "Synchronizuj z kalendarzem uczelni" może być opcjonalne (autoryzacja/logowanie).
